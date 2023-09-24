@@ -1,6 +1,6 @@
 # Subscription to newsletter
 
-# Test of git 2
+# TEST OF GIT 3! xdd
 This is my first project created. Source code might be sloppy, but it's working ;D.
 
 - You can add email and submit the form
